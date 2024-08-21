@@ -31,14 +31,13 @@ Considering all the above analysis multiple factors can be taken into account wh
 ## Technologies Used
 - jupyter notebook - 7.0.8
 - matplotlib library
-- seaborn library - Seaborn version: 0.12.2
-- pandas - Pandas version: 2.1.4
-- numpy - NumPy version: 1.26.4
+- seaborn library - Seaborn version: 0.13.2
+- pandas - Pandas version: 2.2.2
 
 ## Acknowledgements
 - This project was done as part of UpgradC66 Batch - ML/AI project under EDA module.
 
 
 ## Contact
-Created by [@shamanthn8904@gmail.com] and [@] - feel free to contact us!
+Created by Shikkha Chandrakar and Shamanth N - feel free to contact us!
 
